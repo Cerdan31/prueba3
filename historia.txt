@@ -1,0 +1,8 @@
+comando de git 
+git init = se usa cuando comensamos el proyecto
+git add =seguimiento al archivo especifico 
+git commit = traladas los archivos del are de ensayo al repositorio local 
+git status -s = nos indica los archivos que tenemos en el directorio
+git log --oneline= para ver las versiones que tenemos 
+git resert --hard = se hace una restauracion del archivo
+$ git config --global user.name= configurar git 
