@@ -6,3 +6,5 @@ git status -s = nos indica los archivos que tenemos en el directorio
 git log --oneline= para ver las versiones que tenemos 
 git resert --hard = se hace una restauracion del archivo
 $ git config --global user.name= configurar git 
+
+prueba 1
