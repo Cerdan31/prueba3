@@ -8,3 +8,5 @@ git resert --hard = se hace una restauracion del archivo
 $ git config --global user.name= configurar git 
 
 prueba 1
+
+prueba 2
